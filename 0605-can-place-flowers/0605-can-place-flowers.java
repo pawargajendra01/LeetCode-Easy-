@@ -11,11 +11,7 @@ class Solution {
                 count++;
             } else if (firstone) {
                 if (count > 1) {
-                    if (count % 2 == 1) {
-                        result = result + (count / 2);
-                    } else {
-                        result = result + (count / 2);
-                    }
+                    result = result + (count / 2);
                 }
                 count = 0;
                 firstone=false;
@@ -38,11 +34,7 @@ class Solution {
                 return result>=n;
             }
             if(i==flowerbed.length-1&&count>1){
-                    if (count % 2 == 1) {
-                        result = result + (count / 2);
-                    } else {
-                        result = result + (count / 2);
-                    }
+                result = result + (count / 2);
             }
         }
         if (result >= n) {
