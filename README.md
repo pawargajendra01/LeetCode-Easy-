@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/pawargajendra01/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawargajendra01/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/pawargajendra01/LeetCode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/pawargajendra01/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/pawargajendra01/LeetCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawargajendra01/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
