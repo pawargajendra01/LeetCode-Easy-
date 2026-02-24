@@ -7,8 +7,7 @@ class Solution {
         double result = sum/k;
         for(int j=k;j<nums.length;j++){
             sum += nums[j] - nums[j-k];
-            double avg =sum/k;
-            result = Math.max(result,avg);
+            result = Math.max(result,sum/k);
         }
         return result;
     }
