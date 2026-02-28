@@ -8,7 +8,7 @@ class Solution {
                 count++;
             if(count>maximum)
                 maximum = count;
-            else if(nums[i]>=nums[i+1])
+            if(nums[i]>=nums[i+1])
                 count=1;
         }
         return maximum;
