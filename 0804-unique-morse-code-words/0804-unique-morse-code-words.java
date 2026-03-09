@@ -8,12 +8,14 @@ class Solution {
 
         HashSet<String> set = new HashSet<>();
 
+        StringBuilder sb = new StringBuilder();
+
         for(int i=0;i<words.length;i++){
-            String word = "";
+            sb.setLength(0);
             for(int j=0;j<words[i].length();j++){
-                word += morsecodes[words[i].charAt(j) - 97];
+                sb.append(morsecodes[words[i].charAt(j) - 97]);
             }
-            set.add(word);
+            set.add(sb.toString());
         }
 
         return set.size();
