@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pawargajendra01/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/pawargajendra01/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/pawargajendra01/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 ## Simulation
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawargajendra01/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/pawargajendra01/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/pawargajendra01/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [1154-day-of-the-year](https://github.com/pawargajendra01/LeetCode/tree/master/1154-day-of-the-year) |
 ## Math
 |  |
