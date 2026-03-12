@@ -11,10 +11,10 @@ class Solution {
                 for (int k = j + 1; k < points.length; k++) {
                     int x3 = points[k][0];
                     int y3 = points[k][1];
-                    area = Math.max(0.5 * Math.abs(x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2)), area);
+                    area = Math.max(Math.abs(x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2)), area);
                 }
             }
         }
-        return area;
+        return area*0.5;
     }
 }
