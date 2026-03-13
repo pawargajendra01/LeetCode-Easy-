@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pawargajendra01/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pawargajendra01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/pawargajendra01/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pawargajendra01/LeetCode/tree/master/0016-3sum-closest) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pawargajendra01/LeetCode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/pawargajendra01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/pawargajendra01/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawargajendra01/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
