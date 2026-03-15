@@ -15,15 +15,16 @@ class Solution {
             char c = Character.toLowerCase(paragraph.charAt(i));
             if (Character.isLetter(c)) {
                 sb.append(c);
-                str = sb.toString();
             }
             else if (sb.length() > 0) {
+                str = sb.toString();
                 if (!set.contains(str)) {
                     map.put(str, map.getOrDefault(str, 0) + 1);
                 }
                 sb.setLength(0);
             }
             if (i == paragraph.length() - 1 && Character.isLetter(c)) {
+                str = sb.toString();
                 if (!set.contains(str)) {
                     map.put(str, map.getOrDefault(str, 0) + 1);
                 }
