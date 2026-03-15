@@ -22,7 +22,7 @@ class Solution {
                 }
                 sb.setLength(0);
             }
-            if (i== paragraph.length()-1 && c != '.' && c != '!') {
+            if (i== paragraph.length()-1 && Character.isLetter(c)) {
                 if (!set.contains(sb.toString())) {
                     map.put(sb.toString(), map.getOrDefault(sb.toString(), 0) + 1);
                 }
