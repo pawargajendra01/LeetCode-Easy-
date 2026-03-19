@@ -6,33 +6,11 @@ class Solution {
             for(int j=0;j<n;j++){
                 if(grid[i][j] > 0){
                     area+=(grid[i][j]*4)+2;
-                    if(i-1>=0){
-                        if(grid[i-1][j]>=grid[i][j]){
-                            area-=grid[i][j];
-                        }else{
-                            area-=grid[i-1][j];
-                        }
+                    if (i > 0) {
+                        area -= Math.min(grid[i][j], grid[i - 1][j]) * 2;
                     }
-                    if(j-1>=0){
-                        if(grid[i][j-1]>=grid[i][j]){
-                            area-=grid[i][j];
-                        }else{
-                            area-=grid[i][j-1];
-                        }
-                    }
-                    if(j+1<n){
-                        if(grid[i][j+1]>=grid[i][j]){
-                            area-=grid[i][j];
-                        }else{
-                            area-=grid[i][j+1];
-                        }
-                    }
-                    if(i+1<n){
-                        if(grid[i+1][j]>=grid[i][j]){
-                            area-=grid[i][j];
-                        }else{
-                            area-=grid[i+1][j];
-                        }
+                    if (j > 0) {
+                        area -= Math.min(grid[i][j], grid[i][j - 1]) * 2;
                     }
                 }
             }
