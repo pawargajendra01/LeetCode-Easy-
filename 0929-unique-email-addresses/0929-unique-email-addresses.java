@@ -15,10 +15,6 @@ class Solution {
                 else if(i.charAt(j)!='.' && !plus){
                     sb.append(i.charAt(j));
                 }
-                else if(i.charAt(j)=='@'){
-                    sb.append(i.substring(j));
-                    break;
-                }
             }
             set.add(sb.toString());
             sb.setLength(0);
