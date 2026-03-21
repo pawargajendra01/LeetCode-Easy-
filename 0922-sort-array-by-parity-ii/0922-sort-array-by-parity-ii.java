@@ -14,6 +14,8 @@ class Solution {
                 int temp=nums[left];
                 nums[left]=nums[right];
                 nums[right]=temp;
+                left+=2;
+                right+=2;
             }
         }
         return nums;
