@@ -5,11 +5,9 @@ class Solution {
         int right=s.length();
         for(int i=0;i<s.length();i++){
                 if(s.charAt(i)=='I'){
-                    arr[i]=left;
-                    left++;
+                    arr[i]=left++;
                 }else{
-                    arr[i]=right;
-                    right--;
+                    arr[i]=right--;
                 }
         }
         arr[s.length()]=right;
