@@ -24,7 +24,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             nums[i]*=nums[i];
         }
-        Arrays.sort(nums);
+        Arrays.parallelSort(nums);
         return nums;
     }
 }
