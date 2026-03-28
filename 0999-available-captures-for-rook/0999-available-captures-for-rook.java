@@ -36,7 +36,7 @@ class Solution {
                             break;
                         }
                     }
-                    break;
+                    return count;
                 }
             }
         }
