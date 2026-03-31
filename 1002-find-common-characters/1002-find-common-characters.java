@@ -5,7 +5,7 @@ class Solution {
             list.add(Character.toString(words[0].charAt(j)));
         }
         StringBuilder sb = new StringBuilder();
-        for(int i=0;i<words.length;i++){
+        for(int i=1;i<words.length;i++){
             sb.append(words[i]);
             for(int j=0;j<list.size();j++){
                 boolean found = false;
