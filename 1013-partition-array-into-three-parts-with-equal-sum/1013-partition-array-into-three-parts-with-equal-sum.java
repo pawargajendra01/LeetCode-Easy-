@@ -1,8 +1,5 @@
 class Solution {
     public boolean canThreePartsEqualSum(int[] arr) {
-        if(arr.length<3){
-            return false;
-        }
         int sum=0;
         for(int i=0;i<arr.length;i++){
             sum+=arr[i];
