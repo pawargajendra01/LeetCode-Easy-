@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/pawargajendra01/LeetCode/tree/master/1051-height-checker) |
 | [1184-distance-between-bus-stops](https://github.com/pawargajendra01/LeetCode/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/pawargajendra01/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/pawargajendra01/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Simulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/pawargajendra01/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/pawargajendra01/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/pawargajendra01/LeetCode/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/pawargajendra01/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 ## Stack
 |  |
 | ------- |
