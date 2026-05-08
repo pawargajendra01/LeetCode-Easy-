@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/pawargajendra01/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/pawargajendra01/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Simulation
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/pawargajendra01/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/pawargajendra01/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pawargajendra01/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pawargajendra01/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/pawargajendra01/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Counting Sort
 |  |
 | ------- |
