@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/pawargajendra01/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1408-string-matching-in-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1408-string-matching-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
