@@ -1,11 +1,10 @@
 class Solution {
     public int minStartValue(int[] nums) {
         int minPrefixSum = 0;
-        int currentSum = 0;
-
+        int sum = 0;
         for (int num : nums) {
-            currentSum += num;
-            minPrefixSum = Math.min(minPrefixSum, currentSum);
+            sum += num;
+            minPrefixSum = Math.min(minPrefixSum, sum);
         }
 
         return 1 - minPrefixSum;
