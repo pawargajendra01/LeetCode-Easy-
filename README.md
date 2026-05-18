@@ -305,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/pawargajendra01/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pawargajendra01/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
