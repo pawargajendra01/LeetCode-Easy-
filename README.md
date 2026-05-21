@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pawargajendra01/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/pawargajendra01/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/pawargajendra01/LeetCode/tree/master/1528-shuffle-string) |
+| [1550-three-consecutive-odds](https://github.com/pawargajendra01/LeetCode/tree/master/1550-three-consecutive-odds) |
 ## Simulation
 |  |
 | ------- |
