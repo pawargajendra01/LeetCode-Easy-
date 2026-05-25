@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/pawargajendra01/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pawargajendra01/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pawargajendra01/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Simulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pawargajendra01/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pawargajendra01/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pawargajendra01/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pawargajendra01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/pawargajendra01/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pawargajendra01/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Depth-First Search
 |  |
 | ------- |
