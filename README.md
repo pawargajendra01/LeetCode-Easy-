@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pawargajendra01/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pawargajendra01/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/pawargajendra01/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pawargajendra01/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/pawargajendra01/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pawargajendra01/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/pawargajendra01/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
