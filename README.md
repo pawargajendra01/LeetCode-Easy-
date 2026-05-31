@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pawargajendra01/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pawargajendra01/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1640-check-array-formation-through-concatenation](https://github.com/pawargajendra01/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
+| [1646-get-maximum-in-generated-array](https://github.com/pawargajendra01/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 ## Simulation
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/pawargajendra01/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/pawargajendra01/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1646-get-maximum-in-generated-array](https://github.com/pawargajendra01/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 ## Hash Table
 |  |
 | ------- |
