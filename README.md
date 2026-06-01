@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pawargajendra01/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1640-check-array-formation-through-concatenation](https://github.com/pawargajendra01/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1646-get-maximum-in-generated-array](https://github.com/pawargajendra01/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
+| [1652-defuse-the-bomb](https://github.com/pawargajendra01/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Simulation
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/pawargajendra01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/pawargajendra01/LeetCode/tree/master/1652-defuse-the-bomb) |
 ## Bit Manipulation
 |  |
 | ------- |
