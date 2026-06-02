@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1640-check-array-formation-through-concatenation](https://github.com/pawargajendra01/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1646-get-maximum-in-generated-array](https://github.com/pawargajendra01/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1652-defuse-the-bomb](https://github.com/pawargajendra01/LeetCode/tree/master/1652-defuse-the-bomb) |
+| [1656-design-an-ordered-stream](https://github.com/pawargajendra01/LeetCode/tree/master/1656-design-an-ordered-stream) |
 ## Simulation
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pawargajendra01/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/pawargajendra01/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1640-check-array-formation-through-concatenation](https://github.com/pawargajendra01/LeetCode/tree/master/1640-check-array-formation-through-concatenation) |
+| [1656-design-an-ordered-stream](https://github.com/pawargajendra01/LeetCode/tree/master/1656-design-an-ordered-stream) |
 ## Stack
 |  |
 | ------- |
@@ -339,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/pawargajendra01/LeetCode/tree/master/0175-combine-two-tables) |
+## Design
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/pawargajendra01/LeetCode/tree/master/1656-design-an-ordered-stream) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/pawargajendra01/LeetCode/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
