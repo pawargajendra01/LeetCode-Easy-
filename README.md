@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/pawargajendra01/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1652-defuse-the-bomb](https://github.com/pawargajendra01/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1656-design-an-ordered-stream](https://github.com/pawargajendra01/LeetCode/tree/master/1656-design-an-ordered-stream) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pawargajendra01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/pawargajendra01/LeetCode/tree/master/1154-day-of-the-year) |
 | [1408-string-matching-in-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/pawargajendra01/LeetCode/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pawargajendra01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Math
 |  |
 | ------- |
