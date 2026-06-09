@@ -3,11 +3,12 @@ class Solution {
         int maxLen=0;
         int count=0;
         for(int i=0;i<rectangles.length;i++){
-            if(Math.min(rectangles[i][0],rectangles[i][1])>maxLen){
-                maxLen = Math.min(rectangles[i][0],rectangles[i][1]);
+            int side=Math.min(rectangles[i][0],rectangles[i][1]);
+            if(side>maxLen){
+                maxLen = side;
                 count=1;
             }
-            else if(Math.min(rectangles[i][0],rectangles[i][1])==maxLen){
+            else if(side==maxLen){
                 count++;
             }
         }
