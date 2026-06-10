@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/pawargajendra01/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/pawargajendra01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/pawargajendra01/LeetCode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [1732-find-the-highest-altitude](https://github.com/pawargajendra01/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/pawargajendra01/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pawargajendra01/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/pawargajendra01/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Database
 |  |
 | ------- |
