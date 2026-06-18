@@ -1,16 +1,16 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
-        if (nums.length == 1) return nums[0];
-        Arrays.sort(nums);
         int sum = 0;
-        int n = nums.length;
-        for (int i = 0; i < n; i++) {
-            boolean leftDuplicate = (i > 0) && (nums[i] == nums[i - 1]);
-            boolean rightDuplicate = (i < n - 1) && (nums[i] == nums[i + 1]);
-            if (!leftDuplicate && !rightDuplicate) {
-                sum += nums[i];
+        int[] freq = new int[101];
+        for(int num : nums){
+            freq[num]++;
+        }
+         for(int num : nums){
+            if(freq[num] == 1){
+                sum = sum + num;
             }
         }
         return sum;
+        
     }
 }
