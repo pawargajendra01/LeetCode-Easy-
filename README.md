@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pawargajendra01/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/pawargajendra01/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pawargajendra01/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pawargajendra01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/pawargajendra01/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pawargajendra01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pawargajendra01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
 | ------- |
