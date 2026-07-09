@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/pawargajendra01/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/pawargajendra01/LeetCode/tree/master/2032-two-out-of-three) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pawargajendra01/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Simulation
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/pawargajendra01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pawargajendra01/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pawargajendra01/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pawargajendra01/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/pawargajendra01/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/pawargajendra01/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pawargajendra01/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pawargajendra01/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/pawargajendra01/LeetCode/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/pawargajendra01/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/pawargajendra01/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pawargajendra01/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Matrix
 |  |
 | ------- |
