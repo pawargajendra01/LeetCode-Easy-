@@ -1,0 +1,48 @@
+/*class Solution {
+    public int countWords(String[] words1, String[] words2) {
+        HashSet<String> set = new HashSet<>();
+        int count = 0;
+        for(String word:words1){
+            if(set.contains(word)){
+                set.remove(word);
+            }
+            else{
+                set.add(word);
+            }
+        }
+        HashSet<String> set2 = new HashSet<>();
+        for(String word:words2){
+            if(set.contains(word) && !set2.contains(word)){
+                count++;
+            }
+            set2.add(word);
+        }
+        return count;
+    }
+}*/
+import java.util.HashMap;
+import java.util.Map;
+
+class Solution {
+    public int countWords(String[] words1, String[] words2) {
+        Map<String, Integer> map1 = new HashMap<>();
+        Map<String, Integer> map2 = new HashMap<>();
+        
+        for (String word : words1) {
+            map1.put(word, map1.getOrDefault(word, 0) + 1);
+        }
+        
+        for (String word : words2) {
+            map2.put(word, map2.getOrDefault(word, 0) + 1);
+        }
+        
+        int count = 0;
+        for (String word : map1.keySet()) {
+            if (map1.get(word) == 1 && map2.getOrDefault(word, 0) == 1) {
+                count++;
+            }
+        }
+        
+        return count;
+    }
+}
