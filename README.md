@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pawargajendra01/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pawargajendra01/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pawargajendra01/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/pawargajendra01/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Simulation
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pawargajendra01/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1995-count-special-quadruplets](https://github.com/pawargajendra01/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2032-two-out-of-three](https://github.com/pawargajendra01/LeetCode/tree/master/2032-two-out-of-three) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/pawargajendra01/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Stack
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pawargajendra01/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/pawargajendra01/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pawargajendra01/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/pawargajendra01/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Matrix
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/pawargajendra01/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pawargajendra01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pawargajendra01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/pawargajendra01/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Math
 |  |
 | ------- |
