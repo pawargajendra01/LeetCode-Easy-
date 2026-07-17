@@ -14,8 +14,7 @@ class Solution {
             if(map.containsKey(nums[i]) && (map.get(nums[i])>0)){
                 arr[num]=nums[i];
                 num++;
-                int var = map.get(nums[i]);
-                map.put(nums[i],var-1);
+                map.put(nums[i],map.get(nums[i])-1);
             }
         }
         return arr;
