@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawargajendra01/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/pawargajendra01/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/pawargajendra01/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawargajendra01/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## String
 |  |
 | ------- |
