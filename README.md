@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawargajendra01/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pawargajendra01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Simulation
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pawargajendra01/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pawargajendra01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/pawargajendra01/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pawargajendra01/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pawargajendra01/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pawargajendra01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
 |  |
 | ------- |
