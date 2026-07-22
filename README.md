@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/pawargajendra01/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pawargajendra01/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pawargajendra01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pawargajendra01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pawargajendra01/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/pawargajendra01/LeetCode/tree/master/1995-count-special-quadruplets) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pawargajendra01/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pawargajendra01/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pawargajendra01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -448,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pawargajendra01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
