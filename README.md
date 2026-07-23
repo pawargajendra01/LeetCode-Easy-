@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawargajendra01/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pawargajendra01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/pawargajendra01/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/pawargajendra01/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pawargajendra01/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pawargajendra01/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/pawargajendra01/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/pawargajendra01/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Stack
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pawargajendra01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/pawargajendra01/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
